@@ -12,6 +12,9 @@ A good looking help command made with discord.js with select menus. Works with p
 3. Place the helpMenu.js into your select menu component file
 4. Change all the wrong paths to the right one for your bot.
 
+## *NOTE*
+> TO USE THIS COMMAND WITHOUT A HANDLER USE THE FILE IN [HERE](https://github.com/LunarTaku/fancy-help-comamnd/blob/main/not-handler/helpMenu.js)
+
 ## Contributing:
 - if you want to contribute create a fork of this project and when you are done editing it update the fork and create a pull request.
 Previews:
