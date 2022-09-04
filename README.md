@@ -4,10 +4,10 @@
 A good looking help command made with discord.js with select menus. Works with prefix and slash commands too!
 
 ## Dependencies:
-- Select Menu Handler => DJS V14 Select Menu Handler – LunarCodes Dev
+- Select Menu Handler => [Blog Link](https://dev.lunarcodes.org/djs-v14-select-menu-handler)
 
 ## Instructions:
-1. Setup the select menu handler instructions here
+1. Setup the select menu handler instructions [here](https://dev.lunarcodes.org/djs-v14-select-menu-handler)
 2. Place the command into your commands folder.
 3. Place the helpMenu.js into your select menu component file
 4. Change all the wrong paths to the right one for your bot.
