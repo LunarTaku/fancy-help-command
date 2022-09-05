@@ -1,6 +1,6 @@
 ![FancyHelpCommandNEw](https://user-images.githubusercontent.com/91988772/188330429-326c06dc-35a1-4322-a901-93b61f59923e.jpg)
 
-# fancy-help-comamnd
+# fancy-help-command
 A good looking help command made with discord.js with select menus. Works with prefix and slash commands too!
 
 ## Dependencies:
